@@ -3,7 +3,8 @@ from datetime import datetime
 """ Function for Translate date (en -> it) """
 
 def transform_date(day: str, month: str):
-    """ Parameters:
+    """ 
+    Parameters:
             day: the name of the date
             month: the name of the month
     """
